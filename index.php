@@ -9,5 +9,8 @@
 <body>
     <h1>Hello, Boss!</h1>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis saepe illum ab. Voluptatum sunt natus aut in aliquam voluptatibus, maiores earum, vitae, officiis blanditiis illum officia minima placeat pariatur ullam?</p>
+    <ul>
+        <li>Activity</li>
+    </ul>
 </body>
 </html>
